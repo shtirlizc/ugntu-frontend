@@ -14,4 +14,4 @@
 11. Вы великолепны можно начинать верстать. Сообщите мне
 12. Задача со звездочкой - в VSCode установить расширение Live Server
 
-13. [Макет приложения](https://www.figma.com/file/xkmLsoHQsAQjpd6KozJuyB/Simple-Weather-App-Design-(Community)?type=design&node-id=4%3A39&mode=dev)
+13. [Макет приложения](https://www.figma.com/file/xkmLsoHQsAQjpd6KozJuyB/Simple-Weather-App-Design-(Community)?type=design&node-id=4%3A39&mode=dev) Задача сверстать указанный макет (с правильными шрифтами, использованием css-переменных и бэм методологии)
