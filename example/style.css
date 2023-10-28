@@ -1,0 +1,55 @@
+:root {
+    --core-pink: #C340A1;
+    --core-periwinkle: #6A6DCD;
+    --core-red: #D93535;
+    --core-blue: #307FE2;
+    --core-mint: #00A88B;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    gap: 24px;
+}
+
+.board {
+    border-radius: 16px;
+    background-color: #262626;
+    padding: 24px;
+}
+
+.board-title {
+    /* font-family: SF Pro Display; */
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.08), 0px 4px 8px 0px rgba(0, 0, 0, 0.12);
+    padding: 24px;
+}
+.card:hover {
+    background-color: green;
+}
+
+.pink {
+    background-color: var(--core-pink);
+}
+.periwinkle {
+    background-color: var(--core-periwinkle);
+}
+.red {
+    background-color: var(--core-red);
+}
+.blue {
+    background-color: var(--core-blue);
+}
+.mint {
+    background-color: var(--core-mint);
+}
