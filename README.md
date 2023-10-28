@@ -1,5 +1,6 @@
 # ugntu-frontend
 
+28.10.2023
 1. Зарегистрироваться на [github.com](https://www.example.com](https://github.com/)
 2. Создать публичный репозиторий
 3. Отправить ссылку в группу "Пары по фронтенду" с указанием имени и фамилии
@@ -12,3 +13,5 @@
 10. Запушить первый коммит
 11. Вы великолепны можно начинать верстать. Сообщите мне
 12. Задача со звездочкой - в VSCode установить расширение Live Server
+
+13. [Макет приложения](https://www.figma.com/file/xkmLsoHQsAQjpd6KozJuyB/Simple-Weather-App-Design-(Community)?type=design&node-id=4%3A39&mode=dev)
