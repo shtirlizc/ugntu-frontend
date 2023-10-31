@@ -13,6 +13,7 @@
 | Павлунин Ярослав Олегович | |
 | Равилов Рустем Фанилевич | |
 | Салихов Арсен Булатович | [app](https://github.com/BMW1344/my-first-app) |
-| Яппаров Ильдар Инсафович | |
-| Шайнуров Тимур | |
+| Яппаров Ильдар Инсафович | [app](https://github.com/Ypprv/FrontProjects) |
+| Шайнуров Тимур | [app](https://github.com/TimurShainurov/my-first-app) |
 | Самольянов Константин | [app](https://github.com/kostyarin7/FrontEnd) |
+| Новосёлов Александр | [app](https://github.com/Alexisnovy/Front) |

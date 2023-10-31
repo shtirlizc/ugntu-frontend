@@ -2,7 +2,7 @@
 
 ## 31.10.2023
 
-1. Сверстать [макет приложения](https://www.figma.com/file/xkmLsoHQsAQjpd6KozJuyB/Simple-Weather-App-Design-(Community)?type=design&node-id=4%3A39&mode=dev)
+1. Сверстать [макет приложения](https://www.figma.com/file/m3xcAAqGFkfCwF4ntoRhI4/Simple-Weather-App-Design-(Community)-(Copy)?type=design&node-id=0%3A1&mode=dev)
 2. Отрефакторить с использованием css-переменных
 3. Подключить шрифты
 4. Отрефакторить код используя методолигию БЭМ, распределить стили по файлам
@@ -23,5 +23,5 @@
 10. Запушить первый коммит
 11. Вы великолепны можно начинать верстать. Сообщите мне
 12. Задача со звездочкой - в VSCode установить расширение Live Server
-13. [Макет приложения](https://www.figma.com/file/xkmLsoHQsAQjpd6KozJuyB/Simple-Weather-App-Design-(Community)?type=design&node-id=4%3A39&mode=dev) Задача сверстать указанный макет (с правильными шрифтами, использованием css-переменных и бэм методологии)
+13. [Макет приложения](https://www.figma.com/file/m3xcAAqGFkfCwF4ntoRhI4/Simple-Weather-App-Design-(Community)-(Copy)?type=design&node-id=0%3A1&mode=dev) Задача сверстать указанный макет (с правильными шрифтами, использованием css-переменных и бэм методологии)
 14. [Документация](https://doka.guide/html/)
