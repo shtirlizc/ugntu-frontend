@@ -1,6 +1,6 @@
 # ugntu-frontend
 
-## 31.10.2023
+## 31.10.2023 - 03.11.2023
 
 1. Сверстать [макет приложения](https://www.figma.com/file/m3xcAAqGFkfCwF4ntoRhI4/Simple-Weather-App-Design-(Community)-(Copy)?type=design&node-id=0%3A1&mode=dev)
 2. Отрефакторить с использованием css-переменных

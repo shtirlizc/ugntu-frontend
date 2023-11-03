@@ -6,6 +6,12 @@
     --core-mint: #00A88B;
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     background-color: black;
     color: white;
