@@ -4,7 +4,7 @@
 | Бабкина Анна Андреевна | [app](https://github.com/BabkinaAA/frontend-app) |
 | Гарипов Азат Радикович | [app](https://github.com/forget89/Frontend) |
 | Кашапов Дмитрий Владимирович | [app](https://github.com/DovitosMan/USPTU)  | 07.11 | 07.11 |
-| Коломеец Дмитрий Алексеевич | [app](https://github.com/ThingsAdonai/sunshine-app) |
+| Коломеец Дмитрий Алексеевич | [app](https://github.com/ThingsAdonai/sunshine-app) | 10.11 | 10.11 |
 | Кондратьев Максим Алексеевич | [app](https://github.com/MasimKondratev/-Frontend-) |
 | Легковой Герман Вячеславович | [app](https://github.com/legkovoyg/froentende) | 03.11 | 03.11 |
 | Мухаметдинова Снежана Валерьевна | |
