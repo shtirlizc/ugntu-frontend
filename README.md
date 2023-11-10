@@ -2,8 +2,8 @@
 
 ## 09.11.2023 - 10.11.2023
 
-[Работа с DOM деревом в Javascript](https://monsterlessons.com/project/series/rabota-s-dom-derevom-v-javascript)
-[Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/companies/macloud/articles/557422/)
+- [Работа с DOM деревом в Javascript](https://monsterlessons.com/project/series/rabota-s-dom-derevom-v-javascript)
+- [Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/companies/macloud/articles/557422/)
 
 1. Добавить в js файл переменную из файла api-response.json
 2. Выводить данные в макет из данного файла (первый город по порядку)
@@ -11,8 +11,8 @@
 
 ## 07.11.2023
 
-[Учебник по javascript](http://learn.javascript.ru/)
-[Справочник по javascript](https://doka.guide/js/)
+- [Учебник по javascript](http://learn.javascript.ru/)
+- [Справочник по javascript](https://doka.guide/js/)
 
 1. Создать в проекте файл training.js
 2. Подключить файл в проект через тег script
