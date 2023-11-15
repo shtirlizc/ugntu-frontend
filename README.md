@@ -1,6 +1,6 @@
 # ugntu-frontend
 
-## 09.11.2023 - 10.11.2023
+## 09.11.2023 - 14.11.2023
 
 - [Работа с DOM деревом в Javascript](https://monsterlessons.com/project/series/rabota-s-dom-derevom-v-javascript)
 - [Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/companies/macloud/articles/557422/)
@@ -29,6 +29,9 @@
 
 
 ## 31.10.2023 - 03.11.2023
+
+- [Документация](https://developer.mozilla.org/)
+- [Документация web на русском](https://doka.guide/)
 
 1. Сверстать [макет приложения](https://www.figma.com/file/m3xcAAqGFkfCwF4ntoRhI4/Simple-Weather-App-Design-(Community)-(Copy)?type=design&node-id=0%3A1&mode=dev)
 2. Отрефакторить с использованием css-переменных
