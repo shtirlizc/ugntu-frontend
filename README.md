@@ -1,5 +1,12 @@
 # ugntu-frontend
 
+## 16.11.2023
+
+1. Зарегистрироваться на [weatherstack](https://weatherstack.com/documentation) (бесплатный тариф)
+2. Выбрать город и загружать данные о погоде из вышеупомянутого ресурса
+3. В модальном окне создать поле ввода города и кнопку "Применить", по клику на которой данные страницы обновляются согласно выбранному городу
+4. Загрузить работу на [Github Pages](https://pages.github.com/)
+
 ## 09.11.2023 - 14.11.2023
 
 - [Работа с DOM деревом в Javascript](https://monsterlessons.com/project/series/rabota-s-dom-derevom-v-javascript)
