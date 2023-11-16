@@ -13,6 +13,7 @@
 ## 16.11.2023
 
 1. Загрузить работу на [Github Pages](https://pages.github.com/)
+[Подсказка](https://ru.hexlet.io/courses/html/lessons/github/theory_unit)
 
 ## 09.11.2023 - 14.11.2023
 
