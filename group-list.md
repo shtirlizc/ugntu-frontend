@@ -8,7 +8,7 @@
 | Кондратьев Максим Алексеевич | [app](https://github.com/MasimKondratev/-Frontend-) | 16.11 | 16.11 |
 | Легковой Герман Вячеславович | [app](https://github.com/legkovoyg/froentende) | 03.11 | 03.11 |
 | Мухаметдинова Снежана Валерьевна | |
-| Насыров Радмир Рашитович | |
+| Насыров Радмир Рашитович | [app](https://github.com/Rodman92/USPTU) |
 | Нелюбин Игорь Алексеевич | [app](https://github.com/ChelseaEPL/London-IS-BLUE) |
 | Павлунин Ярослав Олегович | |
 | Равилов Рустем Фанилевич | |
