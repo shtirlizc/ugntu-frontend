@@ -5,7 +5,7 @@
 | Гарипов Азат Радикович | [app](https://github.com/forget89/Frontend) | 16.11 | 16.11 | 23.11 | 27.11 | 27.11 |
 | Кашапов Дмитрий Владимирович | [app](https://github.com/DovitosMan/USPTU)  | 07.11 | 07.11 | | 16.11 | 16.11 |
 | Коломеец Дмитрий Алексеевич | [app](https://github.com/ThingsAdonai/sunshine-app) | 10.11 | 10.11 |
-| Кондратьев Максим Алексеевич | [app](https://github.com/MasimKondratev/-Frontend-) | 16.11 | 16.11 |
+| Кондратьев Максим Алексеевич | [app](https://github.com/MasimKondratev/-Frontend-) | 16.11 | 16.11 | 29.11 |
 | Легковой Герман Вячеславович | [app](https://github.com/legkovoyg/froentende) | 03.11 | 03.11 | 23.11 | 16.11 | 16.11 | 23.11 |
 | Мухаметдинова Снежана Валерьевна | |
 | Насыров Радмир Рашитович | [app](https://github.com/Rodman92/USPTU) |
