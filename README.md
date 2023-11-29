@@ -4,7 +4,7 @@
 
 1. Зарегистрироваться на [Сайте API погоды](https://openweathermap.org/) (ключ начинает работать через некоторое время после регистрации и подтверждения email)
 2. Выбрать город и загружать данные о погоде из вышеупомянутого ресурса
-Вызов API: `https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}`
+Вызов API: `https://api.openweathermap.org/data/2.5/forecast?&units=metric&q=${cityName}&appid=${apiKey}`
 Пример получения данных: 
 `const result = await fetch(link);`
 `const data = await result.json();`
